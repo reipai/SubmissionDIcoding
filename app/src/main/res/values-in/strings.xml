@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+
+    <string name="home">Beranda</string>
+
+    <string name="title_movie">Film</string>
+    <string name="title_tvshow">Acara TV</string>
+
+    <string name="title_activity_movie_detail">Aktifitas Rincian Film</string>
+    <string name="image_poster">Gambar Poster</string>
+    <string name="date_relealesed">Tanggal Rilis</string>
+    <string name="title">Judul</string>
+    <string name="status_detail">Telah Rilis</string>
+    <string name="title_overview">Deskripsi</string>
+    <string name="languange">Indonesia</string>
+    <string name="icon_language">bahasa_ikon</string>
+    <string name="genre_movie">Genre Film</string>
+    <string name="genre_tvshow">Genre Acara Tv</string>
+    <string name="popularity">100.000</string>
+    <string name="detail_overview">Gambaran Deskripsi</string>
+
+    <string name="change_language_settings">Konfigurasi Bahasa</string>
+    <string name="reminder_settings">Pengaturan Pengingat</string>
+
+    <string name="title_fav">Favorite</string>
+    <string name="favorite_movie">Film Kesukaan</string>
+    <string name="favorite_tv_show">Acara Tv Kesukaan</string>
+    <string name="added_to_favorite">Ditambahkan ke Kesukaan</string>
+    <string name="removed_from_favorite">Dihapus dari Kesukaan</string>
+
+    <string name="btn_search">Tombol Pencarian</string>
+    <string name="error">Silahkan Periksa Koneksi Anda</string>
+
+    <string name="widget_text">Katalog Kesukaan</string>
+    <string name="empty_data">Film dan acara tv favorit Anda tidak memiliki data</string>
+
+    <string name="title_reminder">Pengingat Harian</string>
+    <string name="daily_reminder">Katalog Film akan mengingatkan Anda untuk membuka aplikasi setiap hari</string>
+    <string name="title_new_release_reminder">Pengingat Rilisan Baru</string>
+    <string name="new_release">Katalog Film akan menunjukkan film dan acara tv yang baru dirilis</string>
+
+    <string name="enable_daily">Pengingat Harian Diaktifkan</string>
+    <string name="disable_daily">Pengingat Harian Dimatikan</string>
+    <string name="enable_new_release">Pengingat Rilisan Baru Diaktifkan</string>
+    <string name="disable_new_release">Pengingat Rilisan Baru Dimatikan</string>
+</resources>

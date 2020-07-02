@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FavMovie</string>
+    
+    <string name="title_movie">Movie Title</string>
+    <string name="release_date">Movie Release Date</string>
+    <string name="overview">Overview</string>
+    <string name="image_poster">Image Poster</string>
+</resources>
